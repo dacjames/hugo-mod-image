@@ -2,3 +2,5 @@ github.com/bowman2001/hugo-mod-error-message v0.4.0 h1:QlK4NdpZ0W42T0pC1UjXNs/ox
 github.com/bowman2001/hugo-mod-error-message v0.4.0/go.mod h1:qOtBS8WaRgnWHFVWXqvah1V2bYYWX4sUD7l524QJrgU=
 github.com/dacjames/hugo-mod-resource v0.0.0-20250427001020-827d1dcea84d h1:T2XOyGkGl1LhqoxKRuINFimoZUQKmph9mmu8VXvN4HA=
 github.com/dacjames/hugo-mod-resource v0.0.0-20250427001020-827d1dcea84d/go.mod h1:O/dASY73KLpk5wDzjJ8VwuP+eCwFrctOkrMUw+9zzt4=
+github.com/dacjames/hugo-mod-resource v0.0.0-20250427022513-d12a1734e31b h1:hu+XCZ/azFf6p7/Mshj0E7aUYznnIigir0o7Bi8+Sgc=
+github.com/dacjames/hugo-mod-resource v0.0.0-20250427022513-d12a1734e31b/go.mod h1:O/dASY73KLpk5wDzjJ8VwuP+eCwFrctOkrMUw+9zzt4=
